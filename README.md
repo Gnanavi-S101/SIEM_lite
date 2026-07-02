@@ -20,9 +20,9 @@ Python · PyQt5 · SQLite · scikit-learn · ReportLab
 ## Project Structure
 SIEM-Lite/
 │
-├── main_window.py          
+├── main_window.py
 ├── config.py
-├── attack.py                
+├── attack.py
 │
 ├── core/
 │   ├── __init__.py
@@ -33,7 +33,7 @@ SIEM-Lite/
 │   └── collector.py
 │
 ├── ui/
-│   ├── __init__.py              
+│   ├── __init__.py
 │   ├── login_window.py
 │   ├── dashboard_page.py
 │   ├── alerts_page.py
@@ -43,7 +43,7 @@ SIEM-Lite/
 │   ├── reports_page.py
 │   └── settings_page_.py
 │
-├── agent.py                  
+├── agent.py
 ├── requirements.txt
 └── README.md
 
