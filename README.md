@@ -49,7 +49,8 @@ SIEM-Lite/
 └── README.md                                                                                                                                                                                                      
 
 ## Setup
-\`\`\`bash
+bash
+\`\`\`
 pip install -r requirements.txt
 python main_window.py
 \`\`\`
